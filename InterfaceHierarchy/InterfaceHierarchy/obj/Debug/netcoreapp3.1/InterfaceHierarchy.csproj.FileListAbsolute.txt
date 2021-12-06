@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.exe
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.deps.json
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.runtimeconfig.json
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.runtimeconfig.dev.json
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.dll
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.pdb
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.dll
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.pdb
+C:\Users\user\Desktop\HomeWorks\InterfaceHomeWorks\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.genruntimeconfig.cache
